@@ -1,0 +1,41 @@
+.bg-danger {
+  background-color: #F72210 !important;
+} 
+
+body {
+  background-color: #F4F5F6;
+}
+
+.container-xl {
+  max-width: 1310px;
+}
+
+.navbar-container-mini {
+  height: 50px;
+}
+
+.logo-small {
+  width: 140px;
+  height: 30px;
+  object-fit: cover;
+}
+
+.logo-big {
+  width: 396px;
+  height: 60px;
+  object-fit: cover;
+}
+
+.weather  img {
+  width: 5px;
+  height: 5px;
+}
+
+.fa-bars {
+  font-size: 24px;
+  opacity: 0.6;
+}
+
+.nav-container-large {
+  height: 95px;
+}
