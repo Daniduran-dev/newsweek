@@ -11,7 +11,6 @@ header {
   font-size: 18px;
 }
 
-
 nav {
   font-size: 19px;
 }
@@ -72,4 +71,31 @@ nav {
 
 .red-hover:hover {
   color: red !important;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+.nested-grid-title {
+  font-family: 'Times New Roman', Times, serif;
+  line-height: 1;
+}
+
+.small-img {
+  width: 65px;
+  height: 65px;
+  object-fit: cover;
+}
+
+.mini-logo {
+  width: 30px;
+  height: 30px
+}
+
+.card-img-top {
+  height: 290px;
+  width: 290px;
+  object-fit: cover;
 }
