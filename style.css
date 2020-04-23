@@ -94,8 +94,6 @@ p {
   height: 30px
 }
 
-.card-img-top {
-  height: 290px;
-  width: 290px;
+.c-img {
   object-fit: cover;
 }
