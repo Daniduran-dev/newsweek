@@ -1,9 +1,16 @@
 .bg-danger {
   background-color: #F72210 !important;
-} 
+}
+
+.text-danger {
+  color: #F72210 !important;
+}
+
+.bg-light {
+  background-color: #F4F5F6 !important;
+}
 
 body {
-  background-color: #F4F5F6;
   font-family: 'Roboto Condensed', sans-serif;
 }
 
@@ -95,5 +102,7 @@ p {
 }
 
 .c-img {
+  height: 290px;
+  width: 290px;
   object-fit: cover;
 }
