@@ -132,3 +132,11 @@ p {
 .social-icons {
   font-size: 22px;
 }
+
+.footer-nav li a {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer-nav li a:hover {
+  color: rgb(53, 53, 53) !important;
+}
