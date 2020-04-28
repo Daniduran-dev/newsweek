@@ -1,13 +1,13 @@
 .bg-danger {
-  background-color: #F72210 !important;
+  background-color: #f72210 !important;
 }
 
 .text-danger {
-  color: #F72210 !important;
+  color: #f72210 !important;
 }
 
 .bg-light {
-  background-color: #F4F5F6 !important;
+  background-color: #f4f5f6 !important;
 }
 
 body {
@@ -24,6 +24,7 @@ nav {
 
 .form-control {
   font-size: 19px;
+  max-width: 75px;
 }
 
 .container-xl {
@@ -54,7 +55,7 @@ nav {
   font-size: 15px;
 }
 
-.weather  img {
+.weather img {
   width: 5px;
   height: 5px;
 }
@@ -66,10 +67,6 @@ nav {
 
 .nav-container-large {
   height: 95px;
-}
-
-.form-control {
-  max-width: 75px;
 }
 
 .magnifier {
@@ -98,7 +95,7 @@ p {
 
 .mini-logo {
   width: 30px;
-  height: 30px
+  height: 30px;
 }
 
 .c-img {
@@ -109,10 +106,6 @@ p {
 
 .cover {
   object-fit: cover;
-}
-
-.subscribe {
-  heigh: 313px;
 }
 
 .newsletter {
