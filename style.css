@@ -1,13 +1,13 @@
-.bg-danger {
-  background-color: #f72210 !important;
+.bg-danger-css {
+  background-color: #f72210;
 }
 
-.text-danger {
-  color: #f72210 !important;
+.text-danger-css {
+  color: #f72210;
 }
 
-.bg-light {
-  background-color: #f4f5f6 !important;
+.bg-light-css {
+  background-color: #f4f5f6;
 }
 
 body {
