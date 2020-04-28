@@ -140,3 +140,30 @@ p {
 .footer-nav li a:hover {
   color: rgb(53, 53, 53) !important;
 }
+
+.right-column {
+  height: 1700px;
+  overflow: auto;
+}
+
+.right-column::-webkit-scrollbar {
+  display: none !important;
+}
+
+.middle-column {
+  overflow: auto;
+  height: 1700px;
+}
+
+.middle-column::-webkit-scrollbar {
+  display: none !important;
+}
+
+.left-column {
+  height: 1700px;
+  overflow: auto;
+}
+
+.left-column::-webkit-scrollbar {
+  display: none !important;
+}
